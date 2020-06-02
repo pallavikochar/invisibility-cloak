@@ -53,3 +53,4 @@ out.release()
 # De-allocate any associated memory usage  
 cv2.destroyAllWindows() 
 ```
+printf '\e]8;;http://example.com\e\\This is a link\e]8;;\e\\\n'
